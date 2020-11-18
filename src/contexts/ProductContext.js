@@ -1,0 +1,5 @@
+//create ProductContext object
+import {createContext} from 'react';
+
+export const ProductContext=createContext();
+ 
